@@ -1,12 +1,19 @@
-# React + Vite
+# 项目目标
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+构建一个餐厅推荐网站，该网站允许用户根据他们的位置和关键词来搜索本地商家。
 
-Currently, two official plugins are available:
+# 项目技术栈
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML,
+- CSS,
+- JavaScript,
+- React,
+- Yelp API
 
-## Expanding the ESLint configuration
+# 项目特点
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 该网站允许用户上下滚动以浏览其内容。
+- 用户可以通过在搜索栏中键入内容来模拟搜索。
+- 向用户显示模拟餐厅数据的列表。
+
+# TODO
